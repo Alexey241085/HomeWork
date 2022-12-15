@@ -1,0 +1,15 @@
+/Users/aleksej/Desktop/HomWo/Task25/bin/Debug/net7.0/Task25
+/Users/aleksej/Desktop/HomWo/Task25/bin/Debug/net7.0/Task25.deps.json
+/Users/aleksej/Desktop/HomWo/Task25/bin/Debug/net7.0/Task25.runtimeconfig.json
+/Users/aleksej/Desktop/HomWo/Task25/bin/Debug/net7.0/Task25.dll
+/Users/aleksej/Desktop/HomWo/Task25/bin/Debug/net7.0/Task25.pdb
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/Task25.csproj.AssemblyReference.cache
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/Task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/Task25.AssemblyInfoInputs.cache
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/Task25.AssemblyInfo.cs
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/Task25.csproj.CoreCompileInputs.cache
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/Task25.dll
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/refint/Task25.dll
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/Task25.pdb
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/Task25.genruntimeconfig.cache
+/Users/aleksej/Desktop/HomWo/Task25/obj/Debug/net7.0/ref/Task25.dll
