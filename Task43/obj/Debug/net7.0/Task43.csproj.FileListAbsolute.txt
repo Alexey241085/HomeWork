@@ -1,0 +1,15 @@
+/Users/aleksej/Desktop/HomWo/Task43/bin/Debug/net7.0/Task43
+/Users/aleksej/Desktop/HomWo/Task43/bin/Debug/net7.0/Task43.deps.json
+/Users/aleksej/Desktop/HomWo/Task43/bin/Debug/net7.0/Task43.runtimeconfig.json
+/Users/aleksej/Desktop/HomWo/Task43/bin/Debug/net7.0/Task43.dll
+/Users/aleksej/Desktop/HomWo/Task43/bin/Debug/net7.0/Task43.pdb
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/Task43.csproj.AssemblyReference.cache
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/Task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/Task43.AssemblyInfoInputs.cache
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/Task43.AssemblyInfo.cs
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/Task43.csproj.CoreCompileInputs.cache
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/Task43.dll
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/refint/Task43.dll
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/Task43.pdb
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/Task43.genruntimeconfig.cache
+/Users/aleksej/Desktop/HomWo/Task43/obj/Debug/net7.0/ref/Task43.dll

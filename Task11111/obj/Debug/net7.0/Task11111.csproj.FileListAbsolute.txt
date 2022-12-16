@@ -1,0 +1,15 @@
+/Users/aleksej/Desktop/HomWo/Task11111/bin/Debug/net7.0/Task11111
+/Users/aleksej/Desktop/HomWo/Task11111/bin/Debug/net7.0/Task11111.deps.json
+/Users/aleksej/Desktop/HomWo/Task11111/bin/Debug/net7.0/Task11111.runtimeconfig.json
+/Users/aleksej/Desktop/HomWo/Task11111/bin/Debug/net7.0/Task11111.dll
+/Users/aleksej/Desktop/HomWo/Task11111/bin/Debug/net7.0/Task11111.pdb
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/Task11111.csproj.AssemblyReference.cache
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/Task11111.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/Task11111.AssemblyInfoInputs.cache
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/Task11111.AssemblyInfo.cs
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/Task11111.csproj.CoreCompileInputs.cache
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/Task11111.dll
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/refint/Task11111.dll
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/Task11111.pdb
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/Task11111.genruntimeconfig.cache
+/Users/aleksej/Desktop/HomWo/Task11111/obj/Debug/net7.0/ref/Task11111.dll

@@ -1,0 +1,15 @@
+/Users/aleksej/Desktop/HomWo/Task41/bin/Debug/net7.0/Task41
+/Users/aleksej/Desktop/HomWo/Task41/bin/Debug/net7.0/Task41.deps.json
+/Users/aleksej/Desktop/HomWo/Task41/bin/Debug/net7.0/Task41.runtimeconfig.json
+/Users/aleksej/Desktop/HomWo/Task41/bin/Debug/net7.0/Task41.dll
+/Users/aleksej/Desktop/HomWo/Task41/bin/Debug/net7.0/Task41.pdb
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/Task41.csproj.AssemblyReference.cache
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/Task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/Task41.AssemblyInfoInputs.cache
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/Task41.AssemblyInfo.cs
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/Task41.csproj.CoreCompileInputs.cache
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/Task41.dll
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/refint/Task41.dll
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/Task41.pdb
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/Task41.genruntimeconfig.cache
+/Users/aleksej/Desktop/HomWo/Task41/obj/Debug/net7.0/ref/Task41.dll

@@ -19,7 +19,7 @@ void EvenNumber(int[] array)
 }
 
 Console.Clear();
-int[] array = new int[5];
+int[] array = new int[19];
 InputArray(array);
 Console.WriteLine($"[{string.Join(", ", array)}]");
 EvenNumber(array);
